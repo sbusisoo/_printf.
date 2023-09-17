@@ -1,1 +1,1 @@
-Working on a printf project with a partner
+Working on a printf project with my partner
