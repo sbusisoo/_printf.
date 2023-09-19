@@ -99,7 +99,7 @@ int print_percent(va_list types, char buffer[],
 
 /************************* PRINT INT *************************/
 /**
- * print_int - Prints int
+ * print_int - Print int
  * @types: List arguments
  * @buffer: Buffer array to handle print
  * @flags:  To calculate active flags

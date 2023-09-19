@@ -12,9 +12,9 @@ int get_size(const char *format, int *i)
 	int cur_i = *i + 1;
 	int sze = 0;
 
-	if (format[curr_i] == 'l')
+	if (format[cur_i] == 'l')
 		sze = S_LONG;
-	else if (format[curr_i] == 'h')
+	else if (format[cur_i] == 'h')
 		sze = S_SHORT;
 
 	if (sze == 0)
